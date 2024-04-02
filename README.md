@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repo is a collection of useful resources you may find useful while partecipating to Flamingo Finance's Dashboard-ATHON.
+This repo is a collection of resources you may find useful while participating in Flamingo Finance's 1,000+ GAS Dashboard-ATHON.
 
 ## Folder structure
 
@@ -12,7 +12,7 @@ This repo is a collection of useful resources you may find useful while partecip
 
 ## API js client
 
-The file "api-client.js" in the js folder contains a javascript ECMA 2020 class built with all the endpoints ready to be used and integrated into your code.
+The file "api-client.js" in the js folder contains a javascript ECMA 2020 class built with the hardcoded URL of the API with all the endpoints ready to be used and integrated into your code.
 
 ### How to use it
 
