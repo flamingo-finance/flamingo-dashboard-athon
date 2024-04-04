@@ -6,7 +6,7 @@ This repo is a collection of resources you may find useful while participating i
 
 ## Folder structure
 
-- **assets**: images to make your creation beautiful (SVGs coming soon)
+- **assets**: images and svgs to make your creation beautiful
 - **data**: core data for pools and tokens on Flamingo Finance (MainNet data)
 - **js**: javascript files to speed up your development
 

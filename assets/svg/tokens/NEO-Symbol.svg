@@ -1,0 +1,25 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="0.00434875" width="160" height="160" rx="80" fill="white"/>
+<path d="M160 80C160 35.8164 124.183 0 79.9987 0C35.8167 0 0 35.8164 0 80C0 124.181 35.8167 160 79.9987 160C124.183 160 160 124.181 160 80Z" fill="white"/>
+<mask id="mask0_1043_21878" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="8" y="8" width="144" height="144">
+<path d="M151.111 80C151.111 40.7281 119.272 8.88889 79.9986 8.88889C40.728 8.88889 8.88892 40.7281 8.88892 80C8.88892 119.272 40.728 151.111 79.9986 151.111C119.272 151.111 151.111 119.272 151.111 80Z" fill="url(#paint0_linear_1043_21878)"/>
+<path d="M151.111 80C151.111 40.7281 119.272 8.88889 79.9986 8.88889C40.728 8.88889 8.88892 40.7281 8.88892 80C8.88892 119.272 40.728 151.111 79.9986 151.111C119.272 151.111 151.111 119.272 151.111 80Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_1043_21878)">
+<g clip-path="url(#clip0_1043_21878)">
+<rect width="142.222" height="142.222" transform="translate(8.88892 8.88889)" fill="white"/>
+<path d="M80 151.111C119.274 151.111 151.111 119.274 151.111 80C151.111 40.7264 119.274 8.88889 80 8.88889C40.7264 8.88889 8.88892 40.7264 8.88892 80C8.88892 119.274 40.7264 151.111 80 151.111Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M82.2738 35.8333L40 51.3172V110.399L78.4314 124.167V64.5955L119.984 49.3141L82.2738 35.8333Z" fill="#00E599"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M81.5591 66.295V98.6148L120 112.359L119.983 52.1143L81.5591 66.295Z" fill="#00AF92"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1043_21878" x1="17.2549" y1="24.5752" x2="139.608" y2="134.379" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00E599"/>
+<stop offset="1" stop-color="#00AF92"/>
+</linearGradient>
+<clipPath id="clip0_1043_21878">
+<rect width="142.222" height="142.222" fill="white" transform="translate(8.88892 8.88889)"/>
+</clipPath>
+</defs>
+</svg>
