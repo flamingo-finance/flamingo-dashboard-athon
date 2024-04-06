@@ -165,6 +165,28 @@ export default class ApiClient {
     return this.fetchData("/flamingo/analytics/flamingo/usd-value-locked", {});
   }
 
+  // Neo Blockchain Data
+
+  async getNeoBlock(index, flamingoData) {
+    return this.fetchData("/neo/block", { index, flamingo_data: flamingoData });
+  }
+
+  async getNeoBlockLatest(flamingoData) {
+    return this.fetchData("/neo/block/latest", { flamingo_data: flamingoData });
+  }
+
+  async getNeoBlocksHistory(page, flamingoData) {
+    return this.fetchData("/neo/blocks/history", { page, flamingo_data: flamingoData });
+  }
+
+  async getNeoBlocksLatest(flamingoData) {
+    return this.fetchData("/neo/blocks/latest", { flamingo_data: flamingoData });
+  }
+
+  async getNeoTransaction(txHash) {
+    return this.fetchData("/neo/transaction", { tx_hash: txHash });
+  }
+
   // PRIVATE
 
   async fetchData(endpoint, params = {}) {
